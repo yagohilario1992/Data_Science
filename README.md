@@ -18,7 +18,7 @@ Graduando em Sistemas de informação pela UNIFRAN, com foco em Data Science e d
 ## Projetos:
 Veja os projetos utilizados em estudos:
 
-* **adicionarei em breve** 
+* **Análise exploratória de dados do Airbnb para a cidade do Rio de janeiro** https://github.com/yagohilario1992/Data_Science/blob/main/Analise_explorat%C3%B3ria_de_dados_do_Airbnb_.ipynb
 
 ---
 
