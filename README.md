@@ -22,7 +22,7 @@ Veja os projetos utilizados em estudos:
 
 ---
 
-
-
+* **Panorama geral da COVID-19 no Brasil**
+https://github.com/yagohilario1992/Data_Science/blob/main/Panorama_do_COVID_19_no_Brasil.ipynb
 
 
