@@ -13,6 +13,7 @@ Graduando em Sistemas de informação pela UNIFRAN, com foco em Data Science e d
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/yago-hil%C3%A1rio-8815441a6/)
+* [medium](https://yago-andrade-hilario.medium.com/)
 
 
 ## Projetos:
