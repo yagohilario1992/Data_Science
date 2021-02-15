@@ -22,6 +22,11 @@ Veja os projetos utilizados em estudos:
 
 ---
 
+* **Analisando a violencia no Rio de Janeiro**
+https://github.com/yagohilario1992/Data_Science/blob/main/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb
+
+---
+
 * **Panorama geral da COVID-19 no Brasil**
 https://github.com/yagohilario1992/Data_Science/blob/main/Panorama_do_COVID_19_no_Brasil.ipynb
 
