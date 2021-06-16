@@ -31,4 +31,7 @@ https://github.com/yagohilario1992/Data_Science/blob/main/Analisando_a_Viol%C3%A
 * **Panorama geral da COVID-19 no Brasil**
 https://github.com/yagohilario1992/Data_Science/blob/main/Panorama_do_COVID_19_no_Brasil.ipynb
 
+---
 
+* **Detecção de Fraude em Cartões de Crédito**
+https://github.com/yagohilario1992/Data_Science/blob/main/Detec%C3%A7%C3%A3o_de_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb
