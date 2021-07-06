@@ -35,3 +35,8 @@ https://github.com/yagohilario1992/Data_Science/blob/main/Panorama_do_COVID_19_n
 
 * **Detecção de Fraude em Cartões de Crédito**
 https://github.com/yagohilario1992/Data_Science/blob/main/Detec%C3%A7%C3%A3o_de_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb
+
+---
+
+* **Churn Prediction para uma empresa de Telecomunicações**
+* https://github.com/yagohilario1992/Data_Science/blob/main/Churn_Prediction_para_uma_empresa_de_Telecomunica%C3%A7%C3%B5es.ipynb
