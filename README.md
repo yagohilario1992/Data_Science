@@ -40,3 +40,8 @@ https://github.com/yagohilario1992/Data_Science/blob/main/Detec%C3%A7%C3%A3o_de_
 
 * **Churn Prediction para uma empresa de Telecomunicações**
 https://github.com/yagohilario1992/Data_Science/blob/main/Churn_Prediction_para_uma_empresa_de_Telecomunica%C3%A7%C3%B5es.ipynb
+
+---
+
+* **Projeto de Lead Scoring**
+* https://github.com/yagohilario1992/Data_Science/blob/main/Lead_scoring.ipynb
