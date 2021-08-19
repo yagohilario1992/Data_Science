@@ -44,4 +44,4 @@ https://github.com/yagohilario1992/Data_Science/blob/main/Churn_Prediction_para_
 ---
 
 * **Projeto de Lead Scoring**
-* https://github.com/yagohilario1992/Data_Science/blob/main/Lead_scoring.ipynb
+https://github.com/yagohilario1992/Data_Science/blob/main/Lead_scoring.ipynb
